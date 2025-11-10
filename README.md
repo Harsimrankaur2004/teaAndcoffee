@@ -45,7 +45,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Click here to open the website](https://tea-and-coffee.netlify.app/)
+👉 [Click here to open the website](https://tea-and-coffee-cafe.netlify.app/)
 
 ## 📸 Screenshot
 
@@ -54,5 +54,6 @@
 ## 📜 License
 
    This project is licensed under the MIT License — you’re free to use and modify it.
+
 
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
